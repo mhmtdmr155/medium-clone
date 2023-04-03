@@ -1,0 +1,43 @@
+.bget{
+ background: rgba(25, 25, 25, 1);
+ border-radius: 20px;
+}
+
+.home{
+    font-weight: 600;
+}
+
+.home:hover{
+    font-weight: 900;
+    padding-bottom: 1rem;
+}
+
+.bget:hover{
+    border-radius: 5px;
+}
+
+.bg-medium {
+    background-color: #FFC017;
+}
+
+.height-corusel {
+    height:auto;
+}
+
+.font {
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.text-underline {
+    text-decoration: underline;
+}
+
+.border-b {
+    border-bottom: solid 2px rgba(41,41,41,1);   
+}
+
+.aside-buttons > li{
+    margin-bottom: 10px;
+}
+
